@@ -1,0 +1,10 @@
+0 WPM(Wörter pro Minute)Tastenanschläge	(0 | 0) 0Genauigkeit	85.04%Korrekte Wörter	0Falsche Wörter	0
+
+
+94 WPM
+(Wörter pro Minute)
+Top 20 %
+Tastenanschläge	(468 | 28) 496
+Genauigkeit	93.41%
+Korrekte Wörter	86
+Falsche Wörter	5
